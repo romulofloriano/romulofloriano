@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @romulofloriano
+- 👀 I’m interested in learn PHP
+- 🌱 I’m currently learning PHP
+- I´m graphic designer and social media
